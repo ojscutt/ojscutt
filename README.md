@@ -1,8 +1,8 @@
 Owen Scutt (@ojscutt) - he, him, his
 
-Physics with Astronomy MSc Hons, University of Nottingham
+Current PhD student at the University of Birmingham, studying the use of machine learning for rapid inference of stellar and exoplanetary atmosphere models from model grids.
 
-Interested in all things machine learning and astrophysics!
+Previously: Physics with Astronomy MSc Hons, University of Nottingham.
 
 Contact: owen.scutt@outlook.com
 
