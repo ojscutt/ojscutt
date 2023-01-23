@@ -1,6 +1,6 @@
 Owen Scutt (@ojscutt) - he, him, his
 
-Current PhD student at the University of Birmingham, studying the use of machine learning for rapid inference of stellar and exoplanetary atmosphere models from model grids.
+PhD student at the University of Birmingham, studying the use of machine learning for rapid inference of stellar oscillation and exoplanetary atmosphere models from model grids.
 
 Previously: Physics with Astronomy MSc Hons, University of Nottingham.
 
