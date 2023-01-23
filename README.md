@@ -4,7 +4,7 @@ Current PhD student at the University of Birmingham, studying the use of machine
 
 Previously: Physics with Astronomy MSc Hons, University of Nottingham.
 
-Contact: owen.scutt@outlook.com
+Contact: oxs235@student.bham.ac.uk
 
 <!---
 ojscutt/ojscutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
